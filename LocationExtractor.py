@@ -3,7 +3,7 @@
 # Program to use Google Maps API to extract 
 # Location Coordinates from a list of
 # Location Addresses.
-# @author - Sarthak Sharma <sarthaksharma@gatech.edu>
+# @author - Sarthak Sharma <sarthakgatech@gmail.com>
 # Date of last modification - 04/02/2018
 
 # [TODO]: 
