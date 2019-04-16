@@ -27,7 +27,7 @@ class LocationExtractor:
         print "PollingLocationExtractor created!"
 
     def readAddressesFromFile(self,filename):
-        # The should have lines like: 
+        # The file should have lines like: 
         # 98056,B21, Ground Floor, Gandhi Park Lane,Hauz Rani
         # 134098,C-174,Madhuban enclave,Preet Vihar,
         # 307045,House no 35 block i sector 41 noida,
